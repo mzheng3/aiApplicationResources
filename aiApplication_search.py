@@ -79,7 +79,7 @@ with open("level_data.json", "r") as level_data_json:
 
 st.markdown('### Resources for AI Applications')
 
-st.markdown('Welcome to use AI Application App! This application can be used to find related sources in Machine Learning, Deep Learning, and Natural Language Processing.')
+st.markdown('Welcome to AI Application App! This application can be used to find related sources in Machine Learning, Deep Learning, and Natural Language Processing.')
 
 #st.markdown('----')
 
